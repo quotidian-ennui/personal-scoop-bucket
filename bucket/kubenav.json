@@ -1,0 +1,28 @@
+{
+    "homepage": "https://kubenav.io",
+    "description": "kubenav is the navigator for your Kubernetes clusters right in your pocket. kubenav is a mobile, desktop and web app to manage Kubernetes clusters and to get an overview of the status of your resources",
+    "license": "MIT",
+    "version": "3.9.0",
+    "architecture": {
+        "64bit": {
+            "bin": "kubenav.exe",
+            "url": "https://github.com/kubenav/kubenav/releases/download/3.9.0/kubenav-windows-amd64.zip"
+        }
+    },
+    "checkver": {
+        "github": "https://github.com/kubenav/kubenav"
+    },
+    "shortcuts": [
+        [
+            "kubenav.exe",
+            "Kubenav"
+        ]
+    ],
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/kubenav/kubenav/releases/download/$version/kubenav-windows-amd64.zip"
+            }
+        }
+    }
+}
