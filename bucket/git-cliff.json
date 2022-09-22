@@ -1,0 +1,23 @@
+{
+    "homepage": "https://github.com/orhun/git-cliff/",
+    "description": "git-cliff can generate changelog files from the Git history by utilizing conventional commits as well as regex-powered custom parsers. The changelog template can be customized with a configuration file to match the desired format.",
+    "license": "GPLv3",
+    "version": "0.9.1",
+    "architecture": {
+        "64bit": {
+            "extract_dir": "git-cliff-0.9.1",
+            "bin": "git-cliff.exe",
+            "url": "https://github.com/orhun/git-cliff/releases/download/v0.9.1/git-cliff-0.9.1-x86_64-pc-windows-msvc.zip"
+        }
+    },
+    "checkver": {
+        "github": "https://github.com/orhun/git-cliff/"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/orhun/git-cliff/releases/download/v$version/git-cliff-$version-x86_64-pc-windows-msvc.zip"
+            }
+        }
+    }
+}
