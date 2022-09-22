@@ -1,0 +1,29 @@
+{
+    "homepage": "https://github.com/Sanakan8472/copy-dialog-lunar-lander",
+    "description": "Play Lunar Lander in your copy dialog",
+    "license": "MIT",
+    "version": "1.0",
+    "architecture": {
+        "64bit": {
+            "extract_dir": "copy-dialog-lunar-lander",
+            "bin": "CopyDialogLunarLander.exe",
+            "url": "https://github.com/Sanakan8472/copy-dialog-lunar-lander/releases/download/v1.0/copy-dialog-lunar-lander-v1.0.zip"
+        }
+    },
+    "checkver": {
+        "github": "https://github.com/Sanakan8472/copy-dialog-lunar-lander"
+    },
+    "shortcuts": [
+        [
+            "CopyDialogLunarLander.exe",
+            "Lunar Lander"
+        ]
+    ],
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/Sanakan8472/copy-dialog-lunar-lander/releases/download/v$version/copy-dialog-lunar-lander-v$version.zip"
+            }
+        }
+    }
+}
