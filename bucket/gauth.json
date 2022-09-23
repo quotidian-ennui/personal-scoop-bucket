@@ -1,0 +1,22 @@
+{
+    "homepage": "https://github.com/pcarrier/gauth/",
+    "description": "gauth: replace Google Authenticator",
+    "license": "ISC",
+    "version": "1.2.2",
+    "architecture": {
+        "64bit": {
+            "bin": "gauth.exe",
+            "url": "https://github.com/pcarrier/gauth/releases/download/v1.2.2/gauth_1.2.2_windows_amd64.exe"
+        }
+    },
+    "checkver": {
+        "github": "https://github.com/pcarrier/gauth/"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/pcarrier/gauth/releases/download/v$version/gauth_$version_windows_amd64.exe"
+            }
+        }
+    }
+}
