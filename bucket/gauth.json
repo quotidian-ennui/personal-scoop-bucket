@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "bin": "gauth.exe",
-            "url": "https://github.com/pcarrier/gauth/releases/download/v1.2.2/gauth_1.2.2_windows_amd64.exe"
+            "url": "https://github.com/pcarrier/gauth/releases/download/v1.2.2/gauth_1.2.2_windows_amd64.exe#/gauth.exe"
         }
     },
     "checkver": {
