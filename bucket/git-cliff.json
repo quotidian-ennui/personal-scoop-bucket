@@ -17,6 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
+                "extract_dir": "git-cliff-$version",
                 "url": "https://github.com/orhun/git-cliff/releases/download/v$version/git-cliff-$version-x86_64-pc-windows-msvc.zip"
             }
         }
