@@ -6,6 +6,7 @@
     "architecture": {
         "64bit": {
             "bin": "kubenav.exe",
+            "hash": "bc6442b60d138dd53d97115f6ba1362fd3f7d9b4dde3303f4bebb8c66a53465c",
             "url": "https://github.com/kubenav/kubenav/releases/download/3.9.0/kubenav-windows-amd64.zip"
         }
     },

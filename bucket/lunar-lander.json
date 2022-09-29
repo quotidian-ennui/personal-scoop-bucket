@@ -6,6 +6,7 @@
     "architecture": {
         "64bit": {
             "extract_dir": "copy-dialog-lunar-lander",
+            "hash": "acd1b6090d875f7e3eb107e0ebde337f1ddf12373e57e8680e904d724565dfca",
             "bin": "CopyDialogLunarLander.exe",
             "url": "https://github.com/Sanakan8472/copy-dialog-lunar-lander/releases/download/v1.0/copy-dialog-lunar-lander-v1.0.zip"
         }
