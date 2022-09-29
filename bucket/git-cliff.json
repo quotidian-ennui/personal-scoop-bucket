@@ -5,7 +5,7 @@
     "version": "0.9.2",
     "architecture": {
         "64bit": {
-            "extract_dir": "git-cliff-$version",
+            "extract_dir": "git-cliff-0.9.2",
             "bin": "git-cliff.exe",
             "hash": "1fb43d35e9e08fd55c1a49f625c56403a6a6fe7db1147ac7aed4b3fb2046f0c4",
             "url": "https://github.com/orhun/git-cliff/releases/download/v0.9.2/git-cliff-0.9.2-x86_64-pc-windows-msvc.zip"
