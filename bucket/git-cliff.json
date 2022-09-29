@@ -7,6 +7,7 @@
         "64bit": {
             "extract_dir": "git-cliff-0.9.1",
             "bin": "git-cliff.exe",
+            "hash": "3ca4e2eba86b37394d4ae37a8983aa3708330c7448d135e3ea7a14108d62c0fb",
             "url": "https://github.com/orhun/git-cliff/releases/download/v0.9.1/git-cliff-0.9.1-x86_64-pc-windows-msvc.zip"
         }
     },
