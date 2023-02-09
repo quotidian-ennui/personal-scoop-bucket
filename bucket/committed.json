@@ -6,6 +6,7 @@
     "architecture": {
         "64bit": {
             "bin": "committed.exe",
+            "hash": "fa3766119526e1ceb2fb1762d14a7d997106e1bf846d09519e395102133b0b69",
             "url": "https://github.com/crate-ci/committed/releases/download/v1.0.7/committed-v1.0.7-x86_64-pc-windows-msvc.zip"
         }
     },
