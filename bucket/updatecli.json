@@ -2,11 +2,11 @@
     "homepage": "https://github.com/updatecli/updatecli/",
     "description": "updatecli: Automatically open a PR on your GitOps repository when a third party service publishes an update",
     "license": "ASLv2",
-    "version": "0.45.1",
+    "version": "0.45.2",
     "architecture": {
         "64bit": {
-            "hash": "2d7d3e03e036028cde7658a0a64424cd2570e55b058c2e8098fc42b28a159023",
-            "url": "https://github.com/updatecli/updatecli/releases/download/v0.45.1/updatecli_Windows_x86_64.zip"
+            "hash": "45ee3c3025c10a8ab19f75ade968e15f05d5afef3fde7d2471b17cef4d67cf06",
+            "url": "https://github.com/updatecli/updatecli/releases/download/v0.45.2/updatecli_Windows_x86_64.zip"
         }
     },
     "env_add_path": ".",
