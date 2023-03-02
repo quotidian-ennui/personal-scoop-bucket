@@ -2,12 +2,12 @@
     "homepage": "https://github.com/crate-ci/committed/",
     "description": "committed: Nitpicking commit history since beabf39",
     "license": "MIT",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "architecture": {
         "64bit": {
             "bin": "committed.exe",
-            "hash": "121b9e48cb8e3fc048ec9f8a01f1d372c45f5a48bb2ed1e1e63adfae84f12416",
-            "url": "https://github.com/crate-ci/committed/releases/download/v1.0.8/committed-v1.0.8-x86_64-pc-windows-msvc.zip"
+            "hash": "9fb4e6c27f73602b69260873975312416e1725bb430aa36df983cd8fff4a2476",
+            "url": "https://github.com/crate-ci/committed/releases/download/v1.0.9/committed-v1.0.9-x86_64-pc-windows-msvc.zip"
         }
     },
     "checkver": {
