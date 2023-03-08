@@ -6,6 +6,7 @@
     "architecture": {
         "64bit": {
             "bin": "typos.exe",
+            "hash": "55ac42260bf44f4826ce330992883760a154a0c494ccf2135c3da3e625e395f1",
             "url": "https://github.com/crate-ci/typos/releases/download/v1.13.9/typos-v1.13.9-x86_64-pc-windows-msvc.zip"
         }
     },
