@@ -2,12 +2,12 @@
     "homepage": "https://github.com/crate-ci/typos/",
     "description": "typos: Source code spell checker",
     "license": "MIT",
-    "version": "1.13.18",
+    "version": "1.13.19",
     "architecture": {
         "64bit": {
             "bin": "typos.exe",
-            "hash": "e6be53a84c9eb14474bd52911814889ca7473536dbdb3a2e694742258364c6bc",
-            "url": "https://github.com/crate-ci/typos/releases/download/v1.13.18/typos-v1.13.18-x86_64-pc-windows-msvc.zip"
+            "hash": "d28c1e138da8c0827e5020279c7458c92768f7b62ead848f5a41249bb7f6c208",
+            "url": "https://github.com/crate-ci/typos/releases/download/v1.13.19/typos-v1.13.19-x86_64-pc-windows-msvc.zip"
         }
     },
     "checkver": {
