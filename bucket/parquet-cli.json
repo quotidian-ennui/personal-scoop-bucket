@@ -3,11 +3,21 @@
     "description": "Wraps parquet-cli from https://github.com/apache/parquet-mr",
     "license": "Apache-2.0",
     "version": "1.13.0",
-    "hash": "b4ccaa3d7a1cc55369a5b8f4b3a024efc10867ea0b28d1011e799643f74a767a",
+    "hash": "02f2adf7e337c97cd51152039e0968e8b9461c736b176c8d7b694631ee43886e",
     "url": "https://github.com/quotidian-ennui/parquet-cli-wrapper/releases/download/1.13.0/parquet-cli.tar.gz",
     "suggest": {
-        "JDK": "java/openjdk"
+        "JDK": [
+            "java/openjdk",
+            "java/temurin-lts-jdk",
+            "java/zulu-jdk",
+            "java/oraclejdk",
+            "java/graalvm",
+            "java/correto-jdk"
+        ]
     },
+    "depends": [
+      "extras/hadoop-winutils"
+    ],
     "env_add_path": ".",
     "checkver": {
         "github": "https://github.com/quotidian-ennui/parquet-cli-wrapper"
