@@ -2,12 +2,12 @@
     "homepage": "https://github.com/joerdav/xc/",
     "description": "xc: Simple, Convenient, Markdown defined task runner",
     "license": "MIT",
-    "version": "0.7.0",
+    "version": "0.8.0",
     "architecture": {
         "64bit": {
             "bin": "xc.exe",
-            "hash": "c8ba39c3ea55abb137a8da094982bf6eab5622eb8dbb21356acf148519888907",
-            "url": "https://github.com/joerdav/xc/releases/download/v0.7.0/xc_0.7.0_windows_amd64.exe#/xc.exe"
+            "hash": "3470d40ca582d4fb32835d52506abd14ba983ff4566e78e9349e5faff0286a86",
+            "url": "https://github.com/joerdav/xc/releases/download/v0.8.0/xc_0.8.0_windows_amd64.exe#/xc.exe"
         }
     },
     "checkver": {
