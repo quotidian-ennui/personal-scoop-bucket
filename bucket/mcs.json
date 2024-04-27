@@ -2,13 +2,13 @@
     "homepage": "https://github.com/mthmulders/mcs/",
     "description": "Search the Maven Central Repository from your command line!",
     "license": "MIT",
-    "version": "0.6.2",
+    "version": "0.6.3",
     "architecture": {
         "64bit": {
-            "extract_dir": "mcs-0.6.2-windows-x86_64",
+            "extract_dir": "mcs-0.6.3-windows-x86_64",
             "bin": "bin/mcs.exe",
-            "hash": "a99c2da25a9a6abdbd01c44181358798fb37bbdf48a604c50e5764531bec39a4",
-            "url": "https://github.com/mthmulders/mcs/releases/download/v0.6.2/mcs-0.6.2-windows-x86_64.zip"
+            "hash": "ec3e4cdb16fcb233b65df2e09e9424980106d150efa12487d7c33ad24438085f",
+            "url": "https://github.com/mthmulders/mcs/releases/download/v0.6.3/mcs-0.6.3-windows-x86_64.zip"
         }
     },
     "checkver": {
