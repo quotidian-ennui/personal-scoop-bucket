@@ -2,12 +2,12 @@
     "homepage": "https://github.com/iann0036/iamlive/",
     "description": "iamlive: Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy",
     "license": "MIT",
-    "version": "1.1.14",
+    "version": "1.1.15",
     "architecture": {
         "64bit": {
             "bin": "iamlive.exe",
-            "hash": "d73d35072bcdb3f6cffa76680d1aa324e47a9eb7bc95d3cbdd9fe32f08b8e669",
-            "url": "https://github.com/iann0036/iamlive/releases/download/v1.1.14/iamlive-v1.1.14-windows-amd64.zip"
+            "hash": "fcf83dcc3a14ae853a64ac38485401cac04b7102e5ef4f8e2b9c74e50c77c8e3",
+            "url": "https://github.com/iann0036/iamlive/releases/download/v1.1.15/iamlive-v1.1.15-windows-amd64.zip"
         }
     },
     "checkver": {
