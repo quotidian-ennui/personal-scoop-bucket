@@ -2,17 +2,17 @@
     "homepage": "https://github.com/cloudposse/atmos/",
     "description": "atmos: Universal Tool for DevOps and Cloud Automation.",
     "license": "Apache-2.0",
-    "version": "1.199.0",
+    "version": "1.200.0",
     "architecture": {
         "64bit": {
             "bin": "atmos.exe",
-            "hash": "92324a7aab8a25bc08dc2802336d7271870db260c280091ffe41719ee2cc487a",
-            "url": "https://github.com/cloudposse/atmos/releases/download/v1.199.0/atmos_1.199.0_windows_amd64.exe#/atmos.exe"
+            "hash": "d3dd96b7e4e3ff2434f1ec577a29860081d15fb15727f88d62a84ebbc6d555a8",
+            "url": "https://github.com/cloudposse/atmos/releases/download/v1.200.0/atmos_1.200.0_windows_amd64.exe#/atmos.exe"
         },
         "arm64": {
             "bin": "atmos.exe",
-            "hash": "a4724fdd0b69d2a784d64e1563d0c5a91619ed70a349b2d9791e5e9c255f9e68",
-            "url": "https://github.com/cloudposse/atmos/releases/download/v1.199.0/atmos_1.199.0_windows_arm64.exe#/atmos.exe"
+            "hash": "0b4b7b3470438b2de4afb91370509f6fdf4f0a0df55d77fa17b516ba8c70be43",
+            "url": "https://github.com/cloudposse/atmos/releases/download/v1.200.0/atmos_1.200.0_windows_arm64.exe#/atmos.exe"
         }
     },
     "checkver": {
