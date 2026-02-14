@@ -2,13 +2,13 @@
     "homepage": "https://github.com/tummychow/git-absorb/",
     "description": "Port of Facebook's hg absorb",
     "license": "BSD-3-Clause",
-    "version": "0.8.0",
+    "version": "0.9.0",
     "architecture": {
         "64bit": {
-            "extract_dir": "git-absorb-0.8.0-x86_64-pc-windows-msvc",
+            "extract_dir": "git-absorb-0.9.0-x86_64-pc-windows-msvc",
             "bin": "git-absorb.exe",
-            "hash": "501d71751fd34c31fb79b94b625e91b70d51ca41a7c5ecfe887547344b5d2430",
-            "url": "https://github.com/tummychow/git-absorb/releases/download/0.8.0/git-absorb-0.8.0-x86_64-pc-windows-msvc.zip"
+            "hash": "3fcf1d9b4f42017dbffe90539c6be5ac415e9b119552c5ae5cdbb034d36aab87",
+            "url": "https://github.com/tummychow/git-absorb/releases/download/0.9.0/git-absorb-0.9.0-x86_64-pc-windows-msvc.zip"
         }
     },
     "checkver": {
