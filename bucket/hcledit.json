@@ -2,12 +2,12 @@
     "homepage": "https://github.com/minamijoyo/hcledit/",
     "description": "hcledit: Read HCL from stdin, edit and write to stdout, easily pipe and combine other commands",
     "license": "MIT",
-    "version": "0.2.17",
+    "version": "0.2.18",
     "architecture": {
         "64bit": {
             "bin": "hcledit.exe",
-            "hash": "9e755a0f45667a55219acebf2ca4e9ebf8c11f006e72d62492f02f714fd6d8b3",
-            "url": "https://github.com/minamijoyo/hcledit/releases/download/v0.2.17/hcledit_0.2.17_windows_amd64.tar.gz"
+            "hash": "256595df80b616bf211eceef878cef1c443a2f87f1205ae9b22f1a7c32f247cc",
+            "url": "https://github.com/minamijoyo/hcledit/releases/download/v0.2.18/hcledit_0.2.18_windows_amd64.tar.gz"
         }
     },
     "checkver": {
